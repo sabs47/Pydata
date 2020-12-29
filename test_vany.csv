@@ -1,0 +1,3 @@
+Type;Identifiant Sesame;Adresse mail;Prenom;Nom;Service;Mot de passe(oui/non);Ajout Groupes LDAP;Suppression Groupes LDAP
+Users;A000011;toto1.tata1@socgen.com;toto1;tata1;GTS/RET/API;oui;gkib_ied_bddf_a2800_abc;
+Users;A000012;toto2.tata2@socgen.com;toto2;tata2;GTS/RET/API;oui;gpv_mcg,gldap_power,gkib_ied_bddf_a2800_abc;
