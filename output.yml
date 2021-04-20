@@ -1,0 +1,18 @@
+- Ajout groupe ldap: kib_bddf_a5080ied
+  email: toto1.tata1@socgen.com
+  identifiant: A000011
+  mot de passe: e1JLER8+9wK8iJ0VuYuQXw==
+  nom: tata1
+  prenom: toto1
+  service: GTS/RET/API
+  suppresion groupe ldap: ''
+  type: Users
+- Ajout groupe ldap: kib_bddf_a5080ied
+  email: toto2.tata2@socgen.com
+  identifiant: A000012
+  mot de passe: 6psj6qQ0y2LNeVzrafQ9NA==
+  nom: tata2
+  prenom: toto2
+  service: GTS/RET/API
+  suppresion groupe ldap: ''
+  type: Users
